@@ -1,0 +1,14 @@
+{
+  "name": "netlify-submission-created-func-demo",
+  "version": "1.0.0",
+  "description": "An isolated demo of a netlify submission-created function",
+  "main": "index.js",
+  "author": "Tyler Gaw <me@tylergaw.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "2.65.7"
+  },
+  "scripts": {
+    "start": "netlify dev"
+  }
+}
